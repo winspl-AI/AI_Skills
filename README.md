@@ -43,6 +43,10 @@ AI_Skills/
 |---|---|---|
 | Semiconductor WeChat Image Generation | Generate one independent WeChat cover, intro, chapter, and summary image per planned content unit from semiconductor engineering Markdown. | [SKILL.md](semiconductor-wechat-image-generation/SKILL.md) |
 
+| WeChat Article Formatting | 将 Markdown 转为公众号富文本 HTML，保留公式排版，统一标题、表格和箭头间距。 | [SKILL.md](wechat-article-formatting/SKILL.md) |
+
 ## Change log
+
+- 2026-11-05: Added WeChat Article Formatting Skill.
 
 - 2026-11-04: Created the independent Skill library and migrated the Semiconductor WeChat Image Generation Skill (V1.1).
