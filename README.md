@@ -42,8 +42,8 @@ AI_Skills/
 | Skill | Purpose | Entry |
 |---|---|---|
 | Semiconductor WeChat Image Generation | Generate one independent WeChat cover, intro, chapter, and summary image per planned content unit from semiconductor engineering Markdown. | [SKILL.md](semiconductor-wechat-image-generation/SKILL.md) |
-
 | WeChat Article Formatting | 将 Markdown 转为公众号富文本 HTML，保留公式排版，统一标题、表格和箭头间距。 | [SKILL.md](wechat-article-formatting/SKILL.md) |
+| HTRB&HTGB OS DRC | 核对工装 PCB 与 DXF 的孔位和板框，检查铜箔干涉及明显开短路，支持修正版复查。 | [SKILL.md](htrb-htgb-os-drc/SKILL.md) |
 
 ## Change log
 

@@ -1,0 +1,4 @@
+interface:
+  display_name: "HTRB&HTGB OS DRC"
+  short_description: "核对 HTRB 和 HTGB 工装 PCB 的孔位、板框、铜箔干涉及明显开短路"
+  default_prompt: "使用 $htrb-htgb-os-drc 核对附件 PCB 与 DXF 的孔位和板框，检查铜箔干涉及明显开短路。"
